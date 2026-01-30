@@ -1,11 +1,9 @@
-<img width="1600" alt="LevBanner" src="https://github.com/LevMetrics/.github/blob/main/profile/lev.png">
+Levmetrics Solutions Pvt. Ltd. is a technology company that builds products and software solutions across multiple domains.
 
-### About us:
-<!-- https://gdscaec.org/ -->
-[Levmetrics.com](https://www.levmetrics.com) is an innovative IT products and services company committed to providing advanced solutions to our clients. We are passionate about using technology to solve complex challenges and drive business growth. 
+We create reliable AI and software products for areas such as document processing, identity verification, fraud checks, data automation, and internal tools used by businesses. These products are built to work in real environments where accuracy, security, and scale matter.
 
-With our team of highly skilled professionals, we specialize in developing and delivering a wide range of IT products and services.
+Along with our products, we also build custom software for companies. This includes designing systems, developing applications, and deploying them based on the client’s needs. We work closely with teams to turn ideas and requirements into working systems.
 
-We focus on understanding our clients' specific needs and goals by working closely with them, we create customized solutions that align with their business objectives. 
-Whether it's creating powerful applications, implementing scalable cloud infrastructure, or utilizing data for valuable insights, we strive to surpass our clients' expectations.
+Our solutions can be delivered as cloud based software, on customer infrastructure, or a mix of both. We adapt to business and technical constraints instead of forcing a one size fits all approach.
 
+Levmetrics focuses on building practical systems that are stable, easy to maintain, and useful in the long run.
