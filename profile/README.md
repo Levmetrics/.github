@@ -1,4 +1,4 @@
-Levmetrics Solutions Pvt. Ltd. is a technology company that builds products and software solutions across multiple domains.
+<!-- Levmetrics Solutions Pvt. Ltd. is a technology company that builds products and software solutions across multiple domains.
 
 We create reliable AI and software products for areas such as document processing, identity verification, fraud detection, data automation, and internal tools used by businesses. These products are built to work in real environments where accuracy, security, and scale matter.
 
@@ -9,3 +9,5 @@ Alongside our products, we build custom software for companies. This includes de
 Our solutions can be delivered as cloud-based software, on customer infrastructure, or a mix of both. We adapt to business and technical constraints instead of forcing a one-size-fits-all approach.
 
 Levmetrics is headquartered in India and focuses on building practical systems that are stable, easy to maintain, and useful in the long run.
+
+-->
